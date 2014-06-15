@@ -14,10 +14,19 @@ Open, Share and Innovation
 
 加入GDG西安有很多种方式, 最简单的方式就是加入线下活动. 可以使用以下任何一种方式获取我们的活动信息:
 
-* 加入邮件列表: xian-gdg@googlegroups.com
+* 加入邮件列表(*包含所有活动信息*): xian-gdg@googlegroups.com
 * 关注Google+页面: [GDG Xi'an](http://plus.google.com/114935565019424673192/)
 * 关注微博帐号: [西安GDG用户小组](http://weibo.com/xagdg)
 * 关注微信公众帐号: gdg-xian
+
+### 如何加入邮件列表
+
+由于Google Groups目前还是处于无法访问的状态, 很多童鞋都反应不知道怎么样能加入到邮件列表中来. 其实加入到邮件列表, 只需要发几个邮件即可:
+
+1. 发邮件到xian-gdg+subscribe@googlegroups.com, 标题和内容为空
+2. 收到确认邮件后, 回复该邮件, 不要修改标题和内容
+3. 会再次收到确认邮件, 这个时候, 你已经正式加入到邮件列表中了
+4. 以后往邮件列表发邮件的时候, 还是用xian-gdg@googlegroups.com这个邮件地址
 
 ### 活动时间
 
