@@ -24,7 +24,7 @@ Calculation should be done via  http://j.mp/rNg5uA
 No styleguide reference.
 */
 body {
-  font-family: Helvetica, Arial, Sans-Serif;
+  font-family: 'Hiragino Sans GB', 'Microsoft YaHei', arial, sans-serif;
   font-size: 1em;
   line-height: 1.625em;
 }
@@ -51,31 +51,31 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Helvetica, Arial, Sans-Serif;
+  /*font-family: Helvetica, Arial, Sans-Serif;*/
   font-weight: bold;
 }
 h1, .h1 {
-  font-size: 42px;
+  font-size: 40px;
   line-height: 52px;
   margin-top: 52px;
   margin-bottom: 26px;
   letter-spacing: -1px;
 }
 h2, .h2 {
-  font-size: 42px;
+  font-size: 40px;
   line-height: 52px;
   margin-top: 52px;
   margin-bottom: 26px;
   letter-spacing: -1px;
 }
 h3, .h3 {
-  font-size: 26px;
+  font-size: 24px;
   line-height: 26px;
   margin-top: 26px;
   margin-bottom: 26px;
 }
 h4, .h4 {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 26px;
   margin-top: 26px;
   margin-bottom: 26px;
@@ -87,12 +87,14 @@ dl,
 img {
   margin-top: 0;
   margin-bottom: 1.625em;
+  font-size: 14px;
 }
 small, .small, aside {
   font-size: 0.75em;
 }
 .font-size-default {
-  font-size: 1em;
+  /*font-size: 1em;*/
+  font-size: 14px;
 }
 blockquote {
   font-weight: bold;
@@ -188,7 +190,7 @@ pre {
   color: #f2f2f2;
   background-color: #393939;
   border: 1px solid #393939;
-  font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
+  /*font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;*/
   margin-left: 0;
   margin-right: 0;
   padding: 1.625em;
@@ -201,7 +203,7 @@ pre {
 /* HEADER
 --------------------------------------------------------------------------------- */
 .the-header .logo {
-  font-family: Helvetica, Arial, Sans-Serif;
+  /*font-family: Helvetica, Arial, Sans-Serif;*/
   margin: 0;
 }
 .the-header .logo a:visited {
