@@ -34,7 +34,7 @@ Open, Share and Innovation
 
 ### 社区组织者
 
-* [David Xie](mailto:david.scriptfan@gmail.com)
-* [Eric Jin](mailto:today.xa@gmail.com)
-* [Andy Wang](mailto:wangyaodi@gmail.com)
-* [Madeline Ma](mailto:macijiao@gmail.com)
+* [David Xie](/about/davidxie/)
+* [Eric Jin](/about/ericjin/)
+* [Andy Wang](/about/andywang)
+* [Madeline Ma](/about/madelinema/)
