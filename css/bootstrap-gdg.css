@@ -66,6 +66,15 @@ body {
 }
 
 
+/* Sidebar */
+.sidebar {
+  border: 1px solid #ebebeb;
+  background-color: #F5F5F5;
+  overflow: hidden;
+  padding: 20px;
+}
+
+
 /* Article */
 .article {
   margin-bottom: 40px;
@@ -78,6 +87,7 @@ body {
 .article-title {
   padding-bottom: 10px;
   margin-bottom: 0;
+  margin-top: 0;
   border-bottom: 1px solid #eeeeee;
 }
 
