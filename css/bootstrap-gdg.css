@@ -7,6 +7,7 @@
  
 body {
   font-weight: 400;
+  font-size: 16px;
   line-height: 1.62;
   font-family: "Georgia", "Xin Gothic", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei", sans-serif;
   color: #444443;
@@ -52,6 +53,7 @@ body {
 .navbar {
   background-color: #EBEBEB;
   min-height: inherit;
+  margin-bottom: 20px;
 }
 
 .navbar-nav > li > a {
@@ -63,6 +65,29 @@ body {
   color: #333333;
 }
 
+
+/* Article */
+.article {
+  margin-bottom: 40px;
+}
+
+.article > header {
+  margin-bottom: 15px;
+}
+
+.article-title {
+  padding-bottom: 10px;
+  margin-bottom: 0;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.article-meta {
+  font-size: 0.8em;
+  color: #666666;
+  border-bottom: 1px solid #eeeeee;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
 
 .date-section-wrap{ border-top:1px solid #eee; border-bottom:1px solid #eee; overflow:hidden; padding:0; margin-left:0;margin-bottom: 15px;}
 .date-section-wrap p{  margin-top:10px; font-size:11px; color:#5A5A5A; font-style: italic;}
@@ -111,23 +136,6 @@ letter-spacing: 1px;}
 
 .copyright-wrap  a{
 color: #999;
-}
-
-ul.sidenav li a{ display:block;}
-.header-nav{width:100%; background:#EBEBEB; border-top:1px solid #E2E2E2;border-bottom:1px solid #E2E2E2;}
-.header-nav ul{}
-.header-nav ul li:first-child{ margin:0;}
-.navbar{ margin-bottom:0;}
-.navbar .nav>li:first-child>a{ padding-left: 0px;}  
-
-/* bootstrap and blogger navbar css error fix*/
-body .navbar {
-height: auto;
-padding: 0px 0px 0px 125px;
-
-}
-.post{
-margin-bottom:20px;
 }
 
 /*--

@@ -8,3 +8,6 @@ url: "http://gdgxian.org"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Comments
+disqus_short_name: gdgxian
