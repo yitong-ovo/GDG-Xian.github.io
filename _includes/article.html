@@ -1,0 +1,17 @@
+<article class="article">
+  <header>
+    <h3 class="article-title">
+      <a href="{{ article.url }}">{{ article.title }}</a>
+    </h3>
+
+    {% if article_type == 'post' %}
+    <div class="article-meta">
+      由 XXX 发布于 {{ article.date | date: "%b %-d, %Y" }}
+    </div>
+    {% endif %}
+  </header>
+
+  <div class="article-content">
+    {{ article_content }}
+  </div>
+</article>
