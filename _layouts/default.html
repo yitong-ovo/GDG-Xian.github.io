@@ -1,8 +1,5 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 ie" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js lt-ie9 ie" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<html lang="en">
 <head>
 	<meta charset="utf-8">
 	<title>{{ page.title }}</title>
@@ -13,23 +10,22 @@
 	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
 
 	<link rel="stylesheet" href="/css/bootstrap.min.css" />
-	<link rel="stylesheet" href="/css/bootstrap-responsive.min.css" />
 	<link rel="stylesheet" href='/css/bootstrap-gdg.css' />
 </head>
 <body>
 	{% include header.html %}
 
 	<div class="container">
-		<div class="col-md-8">
+		<div class="col-sm-8">
 			{{ content }}
 		</div>
 
-		<div class="col-md-4">
+		<div class="col-sm-4">
 			{% include sidebar.html %}
 		</div>
 	</div>
 
-	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.min.js"></script>
 	<script type="text/javascript" src="/js/bootstrap.min.js"></script>
 </body>
 </html>
