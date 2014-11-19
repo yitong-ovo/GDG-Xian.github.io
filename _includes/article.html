@@ -1,7 +1,11 @@
 <article class="article">
   <header>
     <h3 class="article-title">
-      <a href="{{ article.url }}">{{ article.title }}</a>
+      {% if article_list %}
+        <a href="{{ article.url }}">{{ article.title }}</a>
+      {% else %}
+        {{ article.title }}
+      {% endif %}
     </h3>
 
     {% if article_type == 'post' %}
