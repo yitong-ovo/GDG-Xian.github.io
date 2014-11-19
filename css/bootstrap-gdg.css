@@ -116,6 +116,22 @@ body {
   margin-bottom: 50px;
 }
 
+.pagination {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  border-top: 1px solid #eeeeee;
+}
+
+.pagination .next {
+  float: right;
+}
+
+.pagination .disabled {
+  cursor: normal;
+}
+
 .date-section-wrap{ border-top:1px solid #eee; border-bottom:1px solid #eee; overflow:hidden; padding:0; margin-left:0;margin-bottom: 15px;}
 .date-section-wrap p{  margin-top:10px; font-size:11px; color:#5A5A5A; font-style: italic;}
 .margin0{ margin:0;}
