@@ -1,0 +1,14 @@
+<!-- Pagination links -->
+<ul class="pagination pagination-sm">
+  {% if paginator.next_page %}
+    <li class="next"><a href="{{ paginator.next_page_path }}">下一页 &raquo;</a></li>
+  {% else %}
+    <li class="next disabled"><a href="###">下一页 &raquo;</a></li>
+  {% endif %}
+
+  {% if paginator.previous_page %}
+    <li class="prev clearfix"><a href="{{ paginator.previous_page_path }}">&laquo; 上一页</a></li>
+  {% else %}
+    <li class="prev clearfix disabled"><a href="###">&laquo; 上一页</a></li>
+  {% endif %}
+</ul>
