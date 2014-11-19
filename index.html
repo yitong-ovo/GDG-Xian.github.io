@@ -2,9 +2,12 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   {% assign article = post %}
   {% assign article_content = post.content %}
   {% assign article_type = 'post' %}
+  {% assign article_list = true %}
   {% include article.html %}
 {% endfor %}
+
+{% include pagination.html %}

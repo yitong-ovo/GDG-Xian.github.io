@@ -1,12 +1,18 @@
+{% assign author = site.data.authors[article.author] %}
+
 <article class="article">
   <header>
     <h3 class="article-title">
-      <a href="{{ article.url }}">{{ article.title }}</a>
+      {% if article_list %}
+        <a href="{{ article.url }}">{{ article.title }}</a>
+      {% else %}
+        {{ article.title }}
+      {% endif %}
     </h3>
 
     {% if article_type == 'post' %}
     <div class="article-meta">
-      由 XXX 发布于 {{ article.date | date: "%b %-d, %Y" }}
+      {% if author %}由 <a href="{{ author.web }}" target="_blank">{{ author.name }}</a> {% endif %}发布于 {{ article.date | date: "%Y年%m月%d日" }}
     </div>
     {% endif %}
   </header>

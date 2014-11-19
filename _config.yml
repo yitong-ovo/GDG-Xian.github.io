@@ -4,6 +4,7 @@ email: your-email@domain.com
 description: "GDG西安是西安一家专注于Google技术, 开源技术的社区, 欢迎各类朋友加入到GDG西安的集体中来."
 baseurl: ""
 url: "http://gdgxian.org"
+paginate: 5
 
 # Build settings
 markdown: kramdown
