@@ -39,3 +39,5 @@ _你真的不能错过！_
 赶快报名吧，只要来一次，就知道是你想参与的技术活动！:)
 
 **注意：请在报名之后加组织者微信号(yorzi_w，注明android开发俱乐部)，我们会建一个俱乐部的微信群，把所有人邀请到到该群中，方便大家交流勾搭。**
+
+报名地址：[请猛击我!](https://gdgdocs.org/forms/d/1ZSngh9RnhVD9QO--3lDoL0YoshpVg4ZW2OaKut0uhzs/viewform?usp=send_form)
