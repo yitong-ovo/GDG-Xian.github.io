@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 西安Android开发者俱乐部第二次聚会召集
-author: davidx
+author: Eric Jin
 ---
 
 上个月的3月28日, GDG成立了Android俱乐部, 和泥巴创客空间合作举办了第一次的活动. 活动的反响很好, 同时我们也吸收了很多Android开发的爱好者. 我们建立的微信群, 现在已经有126个人了.
