@@ -211,8 +211,12 @@ margin-left: -20px;
 }
 
 .widget {
-margin:0px;
-padding:0px;
+  margin:0px;
+  padding:0px;
+}
+
+.widget .panel-body :last-child {
+  margin-bottom: 0;
 }
 
 .widget ul{
