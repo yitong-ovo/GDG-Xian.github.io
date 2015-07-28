@@ -219,6 +219,10 @@ margin-left: -20px;
   margin-bottom: 0;
 }
 
+.widget-weibo iframe {
+  border-radius: 4px;
+}
+
 .widget ul{
 margin-bottom: 20px;
 margin-left: 0;
