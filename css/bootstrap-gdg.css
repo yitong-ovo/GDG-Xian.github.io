@@ -207,7 +207,7 @@ margin: 0px;
 
 /*fixes left margin on footer link blocks*/
 footer .section {
-margin-left: -20px;
+  margin-left: -20px;
 }
 
 .widget {
