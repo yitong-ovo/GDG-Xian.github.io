@@ -112,6 +112,32 @@ body {
   word-break: break-all;
 }
 
+.article-content h2 {
+  font-weight: 600;
+  font-size: 1.3em;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.article-content h3 {
+  font-size: 1.2em;
+  font-weight: 600;
+  margin: 10px 0 10px 0;
+}
+
+.article-content h4 {
+  font-size: 1.1em;
+  font-weight: 600;
+  margin: 10px 0 10px 0;
+}
+
+.article-content img {
+  max-width: 100%;
+}
+
+
 #disqus_thread {
   margin-bottom: 50px;
 }

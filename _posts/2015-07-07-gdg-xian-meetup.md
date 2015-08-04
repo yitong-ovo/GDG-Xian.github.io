@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 2015年7月12日 GDG西安Meetup
-author: David Xie
+author: davidx
 ---
 
-2015年7月12日, GDG西安将举办新一期的活动. 本次活动有2个话题:
+2015年7月12日, GDG西安将举办新一期的活动，本次活动有两个话题:
 
 1. Demystifying TTY(解密TTY) - 周晓强
 
