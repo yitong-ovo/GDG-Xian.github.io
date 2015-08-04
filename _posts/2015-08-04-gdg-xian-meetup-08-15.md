@@ -10,7 +10,7 @@ author: greatghoul
 
 本期活动有两个话题:
 
-#### 1. Docker ... - 刘亮
+#### 1. docker 在持续集成中的实践 - 刘亮
 
 TODO...
 
