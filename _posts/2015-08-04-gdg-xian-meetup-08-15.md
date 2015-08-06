@@ -31,5 +31,9 @@ author: greatghoul
 
 ![地图](http://greatghoul.b0.upaiyun.com/1508/dUDopnFKUkQBQ.png)
 
+#### 报名参加
+
+<https://gdgdocs.org/forms/d/1m5eLgamBfNVvADZSAhbUUastteriyhobdkLK7g6_dEk/viewform>
+
 [KevinLi]: http://likaiwen.cn/about.md
 [Bootstrap]: http://www.bootcss.com/
