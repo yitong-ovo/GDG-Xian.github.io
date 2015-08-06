@@ -10,9 +10,9 @@ author: greatghoul
 
 本期活动有两个话题:
 
-#### 1. docker 在持续集成中的实践 - 刘亮
+#### 1. Docker 在持续集成中的实践 - 刘亮
 
-TODO...
+在开发工作中总是会遇到不同的环境，比如本地dev，CI上，staging，production，如何保证你的代码在不同的环境中都能正常工作，如何消除由于环境差异而导致的精力浪费，[刘亮](http://liul85.github.io/) 目前在ThoughtWorks工作，他给大家分享与[大卫](http://davidx.me/)一起在项目的持续集成中使用docker的实践。
 
 #### 2. 设计不难：如果做出有设计感的 Side Project - 李凯文
 
