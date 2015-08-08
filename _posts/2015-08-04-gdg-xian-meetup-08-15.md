@@ -27,7 +27,7 @@ author: greatghoul
 #### 活动地址
 
 西安市高新区科技路48号（科技路与高新四路十字西南角）创业广场C座  
-二楼，泥巴创客空间，九号会议室
+二楼，泥巴创客空间，6号会议室
 
 ![地图](http://greatghoul.b0.upaiyun.com/1508/dUDopnFKUkQBQ.png)
 
