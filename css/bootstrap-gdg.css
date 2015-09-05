@@ -168,15 +168,15 @@ body {
 h1, h2, h3, h4, h5, h6{
   color: #5A5A5A;
 }
-
+/*
 h1 a, h2 a , h3 a, h4 a, h5 a, h6 a{
  color: #5A5A5A;
- }
+}
 
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover{
 color: #5A5A5A; text-decoration:none;
 }
-
+*/
 .section-right{border: 1px solid #ebebeb; overflow:hidden; width:200px;
 width: 220px;
 padding: 20px 20px;}
