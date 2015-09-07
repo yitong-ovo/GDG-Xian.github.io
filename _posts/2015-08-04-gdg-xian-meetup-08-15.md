@@ -18,7 +18,7 @@ author: greatghoul
 
 [KevinLi] 是一名出色的设计师，目前是远程工作，做过 Freelancer，对于我们这些万年 [Bootstrap] 的普通程序员，Kevin 这次给我们带来了一些不一样的东西。之前有幸看到过一次 Kevin 关于设计的分享，受益良多，这次的分享大家不要错过。
 
-#### 3. 基于 Gulp 和 Browserify 构建 Chrome 扩展 ([PDF](http://pan.baidu.com/s/1hqCmxSg))
+#### 3. 基于 Gulp 和 Browserify 构建 Chrome 扩展
 
 [greatghoul] 给大家带来的 Chrome 扩展开发的话题，通过扩展 [TransIt] 的开发实践出来的一种还算不错的扩展开发方式。
 
@@ -38,6 +38,18 @@ author: greatghoul
 #### 报名参加
 
 <https://gdgdocs.org/forms/d/1m5eLgamBfNVvADZSAhbUUastteriyhobdkLK7g6_dEk/viewform>
+
+## 相关资源
+
+ * [本期话题幻灯片下载](http://pan.baidu.com/s/1ntKjMUd)
+ * [划词翻译扩展TransIt](https://github.com/GDG-Xian/crx-transit/)
+ * [vagrantup](https://www.vagrantup.com/)
+ * [Docker](https://www.docker.com/)
+ * [DaoCloud](https://www.daocloud.io/)
+ * [Sketch](http://bohemiancoding.com/sketch/)
+ * [锤子设计总监演讲：如何成为一名优秀的设计师](http://v.qq.com/boke/page/t/0/q/t01556x1m0q.html)
+ * [Google+ 分享 Chrome 社群](https://plus.google.com/communities/113632205792678276270)
+
 
 [KevinLi]: http://likaiwen.cn/about.md
 [Bootstrap]: http://www.bootcss.com/
