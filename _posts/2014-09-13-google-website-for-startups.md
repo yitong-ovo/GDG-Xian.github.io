@@ -1,7 +1,7 @@
 ---
 title: 谷歌开放开发者创业资源网站
 layout: post
-author: davidx
+author: dxie
 ---
 谷歌开发技术推广部门目前开放了他们的创业者网站, 为大家提供了大量的资源为创业提供支持.
 

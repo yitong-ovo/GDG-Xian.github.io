@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GDG西安7月份Meetup
-author: davidx
+author: dxie
 ---
 
 GDG西安在沉默了一个月后, 终于又有新的活动了. 本次活动主要分享Google I/O 2014的一些消息, 同时还有LG的G watch可以供大家把玩, 还有酷酷的cardboard给大家带来VR(虚拟现实)的体验.
