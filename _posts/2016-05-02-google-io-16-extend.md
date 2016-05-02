@@ -4,6 +4,8 @@ title: Google I/O Extend 2016
 author: david-xie
 ---
 
+![IO16](http://deeppic.b0.upaiyun.com/1605/EJKua4xbb.png)
+
 每年的5月都是Google的开发者活动的日子, 今年的I/O大会定在了太平洋时间5月18日早上9点, 地点改在硅谷旁边的Shoreline Amphitheatre(我也是翻了地图才知道在哪-_-!)
 
 不能到现场参加I/O大会没有关系, GDG西安每年都会组织大家一起观看I/O的主题演讲直播的, 今年当然也不例外.
