@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2015年5月28日-29日Google I/O直播之夜
-author: dxie
+author: david-xie
 ---
 
 每年的夏天, 对于Google的爱好者们都是一个福音, 因为每年这个时候, Google都会召开开发者大会, 即Google I/O, 宣布他们这一年来给开发者们带来的好产品, 好技术!

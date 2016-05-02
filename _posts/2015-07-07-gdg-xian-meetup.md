@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2015年7月12日 GDG西安Meetup
-author: dxie
+author: david-xie
 ---
 
 2015年7月12日, GDG西安将举办新一期的活动，本次活动有两个话题:

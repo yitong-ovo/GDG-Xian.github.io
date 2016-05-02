@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GDG西安Web Developers 8月份Meetup
-author: dxie
+author: david-xie
 ---
 
 难熬的酷暑终于过去，天气渐渐转凉，GDG Xi'an 迎来8月份的第一次活动。

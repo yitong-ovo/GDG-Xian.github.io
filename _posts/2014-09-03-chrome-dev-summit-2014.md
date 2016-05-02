@@ -1,7 +1,7 @@
 ---
 title: 2014年全球Chrome高峰会议开始注册
 layout: post
-author: dxie
+author: david-xie
 ---
 
 每年一次的全球Chrome高峰会议注册网页今天发布了。各位有志于学习和利用基于浏览器进行网络应用开发的朋友们，希望你们会去报名参加这个在11月下旬在谷歌总部的峰会。这是一个了解最新互联网技术的盛会，将有谷歌Chrome产品部门的工程师们，和我们开发技术推广部门的工程师们，向大家介绍Chrome浏览器的最新技术发展，以及包括Polymer等在内的基于基于浏览器进行网络应用开发的最新开放型 技术。会议报名网站地址如下：[https://developer.chrome.com/devsummit](https://developer.chrome.com/devsummit)

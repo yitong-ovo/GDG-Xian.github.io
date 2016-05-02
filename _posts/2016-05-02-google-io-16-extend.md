@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google I/O Extend 2016
-author: davidx
+author: david-xie
 ---
 
 每年的5月都是Google的开发者活动的日子, 今年的I/O大会定在了5月18日早上9点, 地点改在硅谷旁边的Shoreline Amphitheatre(我也是翻了地图才知道在哪-_-!)
@@ -25,10 +25,11 @@ author: davidx
 ## 必看
 
 由于本次活动涉及到礼物和甜点, 所以务必报名参加, 报名不收取费用
+
 * [墙内报名地址](https://www.gdgdocs.org/forms/d/1y8dLBinv7vRZyJnJrZze_Sn0oA6lQiQXTxU6rhuKyZY/viewform)
 * [墙外报名地址](https://docs.google.com/forms/d/1y8dLBinv7vRZyJnJrZze_Sn0oA6lQiQXTxU6rhuKyZY/viewform)
 
 ## 相关资源
 
- - [IO2016](https://events.google.com/io2016/)
+ - [IO16介绍](https://events.google.com/io2016/)
  - [IO大会议程](https://events.google.com/io2016/schedule)
