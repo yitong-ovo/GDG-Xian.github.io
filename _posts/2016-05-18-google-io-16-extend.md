@@ -20,10 +20,15 @@ author: davidx
 **活动时间：2016年5月18日晚上10点 - 凌晨3点**  
 **活动地点：陕西省 西安市 碑林区 张家村街道 南二环69号 碑林区机关大楼**
 
+![地图](http://greatghoul.b0.upaiyun.com/1604/NJrFmX1utBQjxx.png)
+
 ## 必看
 
-由于本次活动涉及到礼物和甜点, 所以务必报名参加, 报名不收取费用 [点击这里报名参加](https://www.gdgdocs.org/forms/d/1Cemizt2nrpCluYt9Yhcm2gOI28DrgVdmV_aOtboviVo/viewform)
+由于本次活动涉及到礼物和甜点, 所以务必报名参加, 报名不收取费用
+* [墙内报名地址](https://www.gdgdocs.org/forms/d/1y8dLBinv7vRZyJnJrZze_Sn0oA6lQiQXTxU6rhuKyZY/viewform)
+* [墙外报名地址](https://docs.google.com/forms/d/1y8dLBinv7vRZyJnJrZze_Sn0oA6lQiQXTxU6rhuKyZY/viewform)
 
 ## 相关资源
 
  - [IO2016](https://events.google.com/io2016/)
+ - [IO大会议程](https://events.google.com/io2016/schedule)
