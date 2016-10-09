@@ -11,26 +11,23 @@
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
 
-	<link rel="stylesheet" href="/css/bootstrap.min.css" />
-	<link rel="stylesheet" href='/css/bootstrap-gdg.css' />
+	<link href="//cdn.bootcss.com/material-design-lite/1.2.1/material.min.css" rel="stylesheet">
+	<link href="/css/application.css" rel="stylesheet">
 </head>
-<body>
-	{% include header.html %}
+<body class="mdl-gdg mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
+	<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+		{% include header.html %}
 
-	<div class="container">
-		<div class="col-md-8">
-			{{ content }}
-		</div>
+		<main class="mdl-layout__content">
+			<div class="site-content mdl-grid mdl-grid--no-spacing">
+				{{ content }}	
+			</div>
 
-		<div class="col-md-4">
-			{% include sidebar.html %}
-		</div>
+			{% include footer.html %}
+		</main>
 	</div>
 
-	{% include footer.html %}
-
-	<script type="text/javascript" src="/js/jquery.min.js"></script>
-	<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+	<script src="//cdn.bootcss.com/material-design-lite/1.2.1/material.min.js"></script>
 	<script type="text/javascript" src="/js/application.js"></script>
 </body>
 </html>
