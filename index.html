@@ -3,13 +3,9 @@ layout: default
 title: GDG西安 - gdgxian.org
 ---
 
-<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
+<section class="section--center mdl-grid">
 {% for post in paginator.posts %}
-  {% assign article = post %}
-  {% assign article_content = post.content %}
-  {% assign article_type = 'post' %}
-  {% assign article_list = true %}
-  {% include article_summary.html %}
+  {% include post.html %}
 {% endfor %}
 
 {% include pagination.html %}

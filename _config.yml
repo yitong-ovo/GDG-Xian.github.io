@@ -1,10 +1,11 @@
 # Site settings
-title: GDG西安
+title: GDG Xi'an
 email: your-email@domain.com
-description: "GDG西安是西安一家专注于Google技术, 开源技术的社区, 欢迎各类朋友加入到GDG西安的集体中来."
+description: "GDG Xi'an 是西安一家专注于 Google 技术和开源技术的社区, 欢迎各类朋友加入到 GDG Xi'an 的集体中来。"
 baseurl: ""
 url: "http://gdgxian.org"
 paginate: 10
+excerpt_separator: <!-- more -->
 
 # Build settings
 markdown: kramdown
