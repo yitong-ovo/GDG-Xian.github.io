@@ -36,5 +36,6 @@ Open, Share and Innovation
 
 * [David Xie](/about/davidxie/)
 * [Eric Jin](/about/ericjin/)
-* [Andy Wang](/about/andywang)
-* [Madeline Ma](/about/madelinema/)
+* [邱建](/about/greatghoul)
+* [张思楚](/about/zhangsichu)
+
