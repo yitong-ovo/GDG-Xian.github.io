@@ -1,0 +1,8 @@
+{% assign location = site.data.locations[include.location] %}
+{% include _event.html
+           time=include.time
+           address=location.map.addr
+           map_pic=location.map.pic
+           map_url=location.map.url
+           provider_name=location.provider.name
+           provider_address=location.provider.url %}

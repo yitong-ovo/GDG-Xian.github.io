@@ -1,0 +1,10 @@
+# 活动场地详细信息
+zhiyuan:
+  map:
+    type: amap
+    addr: 高新区锦业一路29号（锦业一路与丈八三路十字西）龙旗科技园A座9层 智园软件
+    url: http://f.amap.com/3b7Cv_01826LM
+    pic: http://greatghoul.b0.upaiyun.com/1612/wgjmugpQdNk9.png
+  provider:
+    name: 西安智园软件
+    url: http://www.wisdomgarden.com/
