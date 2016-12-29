@@ -1,9 +1,16 @@
-<div class="pager mdl-cell mdl-cell--12-col">
+<div class="col s12 center-align">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="mdl-button mdl-js-button mdl-button--accent mdl-js-ripple-effect">&laquo; 上一页</a>
+    <a href="{{ paginator.previous_page_path }}"
+       class="btn-floating waves-effect waves-light light-blue lighten-2">
+      <i class="material-icons">chevron_left</i>
+    </a>
   {% endif %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="mdl-button mdl-js-button mdl-button--accent mdl-js-ripple-effect">下一页 &raquo;</a>
+    <a href="{{ paginator.next_page_path }}"
+       class="btn-floating waves-effect waves-light light-blue lighten-2">
+      <i class="material-icons">chevron_right</i>
+    </a>
   {% endif %}
+</ul>
 </div>

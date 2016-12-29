@@ -1,16 +1,7 @@
-<div class="mdl-cell mdl-cell--12-col">
-  <div class="mdl-card mdl-card-article mdl-shadow--2dp">
-    <div class="mdl-card__title mdl-card--border">
-      <h3 class="mdl-card__title-text">{{ post.title }}</h3>
-    </div>
-    <div class="mdl-card__supporting-text">
-      {{ post.excerpt | strip_html }}
-    </div>
-    <div class="mdl-card__actions mdl-card--border">
-      <a href="{{ post.url }}"
-         class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-        阅读全文
-      </a>
-    </div>
+<div class="col s12">
+  <div class="post-item">
+    <date class="grey-text">{{ post.date | date: "%Y年%m月%d日" }}</date>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p class="grey-text text-darken-2">{{ post.excerpt | strip_html | truncate: 255 }}</p>
   </div>
 </div>

@@ -11,24 +11,22 @@
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
 
-	<link href="//cdn.bootcss.com/material-design-icons/3.0.1/iconfont/material-icons.min.css" rel="stylesheet">
-	<link href="//cdn.bootcss.com/material-design-lite/1.2.1/material.min.css" rel="stylesheet">
-	<link href="/css/application.css" rel="stylesheet">
+<link href="//fonts.proxy.ustclug.org/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" href="//cdn.bootcss.com/materialize/0.97.8/css/materialize.min.css" />
+	<link rel="stylesheet" href="/css/application.css" />
 </head>
-<body class="mdl-gdg mdl-color--grey-200 mdl-color-text--grey-700 mdl-base">
-	<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-		{% include header.html %}
+<body>
+	{% include header.html %}
 
-		<main class="mdl-layout__content">
-			<div class="page-content">
-				{{ content }}
-			</div>
-
-			{% include footer.html %}
-		</main>
+	<div id="main" class="container">
+		{{ content }}
 	</div>
 
-	<script src="//cdn.bootcss.com/material-design-lite/1.2.1/material.min.js"></script>
-	<script type="text/javascript" src="/js/application.js"></script>
+	{% include footer.html %}
+
+	<script src="//cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
+	<script src="//cdn.bootcss.com/materialize/0.97.8/js/materialize.min.js
+"></script>
+	<script src="/js/application.js"></script>
 </body>
 </html>

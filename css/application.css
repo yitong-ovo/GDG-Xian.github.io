@@ -1,31 +1,23 @@
-html, body {
-  font-family: 'Roboto', 'Helvetica', sans-serif;
-  margin: 0;
-  padding: 0;
+body {
+  font-size: 14px;
 }
 
-.mdl-gdg .logo {
-  height: 30px;
+nav .brand-logo {
+  font-size: 1.6rem;
 }
 
-.mdl-gdg .page-content {
-  max-width: 960px;
-  margin: 2em auto 3em auto;
+#main {
+  margin-top: 15px;
+  margin-bottom: 30px;
 }
 
-.mdl-gdg .mdl-card-article {
-  width: auto;
-  min-height: auto;
+.post-item h2 {
+  font-size: 1.3rem;
+  margin-top: 0.3rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
 }
 
-.mdl-gdg .pager {
-  text-align: center;
-}
-
-.mdl-card-article {
-  margin-bottom: 20px;
-}
-
-.mdl-card-article .mdl-card__title-text {
-  font-size: 1.2em;
+.post-item p {
+  margin-top: 0.5em;
 }
