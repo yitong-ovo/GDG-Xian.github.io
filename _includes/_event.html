@@ -1,21 +1,25 @@
-<p>
-  <strong class="text-info">活动时间：</strong>
-  {{ include.time }}<br/>
-  <strong class="text-info">活动地点：</strong>
-  {{ include.address }}
-</p>
+<dl class="event">
+  <dt>活动时间</dt>
+  <dd>
+    <p>{{ include.time }}</p>
+  </dd>
+  <dt>活动地点</dt>
+  <dd>
+    <p>{{ include.address }}</p>
+    <figure class="hoverable">
+      <a href="{{ include.map_url }}"
+         target="_blank"
+         style="margin-bottom: 5px;">
+        <img class="responsive-img" src="{{ include.map_pic }}" alt="地图">
+      </a>
+      <figcaption>
+        本次活动的场地由
+        <a href="{{ include.provider_url }}" target="_blank">
+          {{ include.provider_name }}
+        </a>
+        提供
+      </figcaption>
+    </figure>
+  </dd>
+</dl>
 
-<p class="small text-info text-center">
-  <a href="{{ include.map_url }}"
-     target="_blank"
-     class="thumbnail center-block"
-     style="margin-bottom: 5px;">
-    <img src="{{ include.map_pic }}" alt="地图">
-  </a>
-
-  本次活动的场地由
-  <a href="{{ include.provider_url }}" target="_blank">
-    {{ include.provider_name }}
-  </a>
-  提供
-</p>

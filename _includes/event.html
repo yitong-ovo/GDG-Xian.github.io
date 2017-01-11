@@ -1,5 +1,5 @@
 {% assign location = site.data.locations[include.location] %}
-{% assign address = include.address || location.map.addr %}
+{% assign address = include.address | default: location.map.addr %}
 {% include _event.html
            time=include.time
            address=address
