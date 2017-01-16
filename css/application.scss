@@ -1,0 +1,51 @@
+---
+---
+
+@import "article";
+@import "event";
+
+body {
+  font-size: 14px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+// Legacy
+.small {
+  font-size: 0.9rem;
+}
+
+.text-info {
+  color: #31708F;
+}
+
+nav {
+  margin-bottom: 30px;
+}
+
+nav .brand-logo {
+  font-size: 1.6rem;
+  vertical-align: baseline;
+
+  img {
+    height: 1.3rem;
+  }
+}
+
+#main {
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.post-item h2 {
+  font-size: 1.3rem;
+  margin-top: 0.3rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
+}
+
+.post-item p {
+  margin-top: 0.5em;
+}

@@ -3,12 +3,12 @@ layout: default
 title: GDG西安 - gdgxian.org
 ---
 
+<div class="row">
 {% for post in paginator.posts %}
-  {% assign article = post %}
-  {% assign article_content = post.content %}
-  {% assign article_type = 'post' %}
-  {% assign article_list = true %}
-  {% include article.html %}
+  {% include post.html %}
 {% endfor %}
 
 {% include pagination.html %}
+</div>
+
+
