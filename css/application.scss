@@ -12,6 +12,15 @@ body {
   text-align: center;
 }
 
+// Legacy
+.small {
+  font-size: 0.9rem;
+}
+
+.text-info {
+  color: #31708F;
+}
+
 nav {
   margin-bottom: 30px;
 }
@@ -35,4 +44,3 @@ nav .brand-logo {
 .post-item p {
   margin-top: 0.5em;
 }
-
