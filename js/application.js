@@ -2,7 +2,7 @@
   function doSiteSearch(keyword) {
     var $keyword = $('#keyword');
     $keyword.val('site:' + $keyword.data('site') + ' ' + keyword);
-    $keyword.parents('form').submit(); 
+    $keyword.parents('form').submit();
   }
 
   function searchSubmitHandler(evt) {
