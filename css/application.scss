@@ -27,6 +27,11 @@ nav {
 
 nav .brand-logo {
   font-size: 1.6rem;
+  vertical-align: baseline;
+
+  img {
+    height: 1.3rem;
+  }
 }
 
 #main {
