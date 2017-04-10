@@ -1,4 +1,12 @@
 # 活动场地详细信息
+thoughtworks:
+  map:
+    addr: 西安市高新区天谷八路211号环普科技产业园E座506室ThoughtWorks办公室
+    url: http://ditu.amap.com/place/B0FFGCBNNL
+    pic: http://greatghoul.b0.upaiyun.com/1704/9aj3DEaSdHBl.png
+  provider:
+    name: ThoughtWorks
+    url: https://www.thoughtworks.com/cn/
 zhiyuan:
   map:
     addr: 高新区锦业一路29号（锦业一路与丈八三路十字西）龙旗科技园A座9层 智园软件
