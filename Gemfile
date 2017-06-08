@@ -1,8 +1,6 @@
-source 'https://ruby.taobao.org/'
+source 'https://gems.ruby-china.org/'
 
 gem 'jekyll'
+gem 'jekyll-compose'
 gem 'jekyll-paginate'
-
-group :jekyll_plugins do
-  gem 'jekyll-compose'
-end
+gem 'jekyll-feed'

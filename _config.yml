@@ -16,3 +16,4 @@ disqus_short_name: gdgxian
 
 gems:
   - jekyll-paginate
+  - jekyll-feed
