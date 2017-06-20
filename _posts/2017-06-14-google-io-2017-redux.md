@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google I/O Redux Xi’an
+title: GDG Xi'an Google I/O 2017 回顾
 ---
 
 ![](http://greatghoul.b0.upaiyun.com/1705/wNx3dVoVBbMl.png)
