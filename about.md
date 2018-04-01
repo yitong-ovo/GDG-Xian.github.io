@@ -37,5 +37,5 @@ Open, Share and Innovation
 * [David Xie](/about/davidxie/)
 * [Eric Jin](/about/ericjin/)
 * [邱建](/about/greatghoul)
-* [张思楚](/about/zhangsichu)
+* [张思楚](http://zhangsichu.com)
 
