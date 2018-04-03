@@ -12,9 +12,25 @@ author: greatghoul
 
 1. TensorFlow DevSummit介绍及录像回放。
 2. Tips for a minute.
-3. Jackon 大神的 TensorFlow 技术分享（主题待定）
+3. TensorFlow 与基础模型入门
 
 这次我们邀请到了对 TensorFlow 有很多经验的 Jackon 来做我们的分享嘉宾。Jackon 大神希望知道大家对 TF 的哪个部分更感兴趣，以便为大家准备合适的分享内容。所以请大家把感兴趣的方向填在报名表的调查问卷里。
+
+> **杨洁坤（Jackon）**, 初创公司数据团队负责人。NLP、机器学习、函数式编程爱好者。  
+>  
+> **主题：** TensorFlow 与基础模型入门  
+> **提纲：**  
+> 1. 什么是深度学习。
+> 2. Tensorflow 的 playground。
+> 3. Sigmoid 模型
+> 3. CNN 模型处理 MNIST。
+> 4. RNN 模型处理 MNIST。
+> 5. 丹炉与开发环境搭建。
+> 6. 生产环境里的深度学习。
+>     - 自动驾驶
+>     - 推荐算法
+> 
+> 建议提前看一下 MNIST 模型，并玩一下 http://playground.tensorflow.org/
 
 ## 活动时间
 
