@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GDG Xi'an TensorFlow 技术分享会 后记 
-author: Today
+author: today
 ---
 
 # 2018.4.7   GDG Xi'an TensorFlow 技术分享会 后记
