@@ -1,3 +1,9 @@
+---
+layout: post
+title: GDG Xi'an TensorFlow 技术分享会 后记 
+author: Today
+---
+
 # 2018.4.7   GDG Xi'an TensorFlow 技术分享会 后记
 
 本次GDG西安的线下聚会，共报名63人，实际到场30人。在三个小时的活动时间里，首先由
