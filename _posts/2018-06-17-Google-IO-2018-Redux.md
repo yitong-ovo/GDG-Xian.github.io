@@ -1,3 +1,10 @@
+---
+layout: post
+title: Google I/O 回顾 | GDG 西安
+author: greatghoul
+---
+
+
 Google I/O 2018 已于上个月圆满落幕了，我们 GDG 西安也举办了本地的直播活动，虽然关心 Google 技术的朋友们近期也在媒体的报道中了解了此次大会的新鲜事，我们仍然希望大家来参加接下来的 Google I/O Redux 回顾活动。
 
 回顾活动除了讨论 Google I/O 大会的热点外，我们还邀请了 Android 和 Web 开发的专家给大家介绍此次 I/O 放出的新技术、新特性，大家一起讨论开发的新趋势。
