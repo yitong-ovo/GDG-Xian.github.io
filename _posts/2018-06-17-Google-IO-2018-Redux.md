@@ -54,3 +54,6 @@ Google I/O 2018 已于上个月圆满落幕了，我们 GDG 西安也举办了�
 
 -   GDG 西安的活动，均为免费活动，提交报名表即表示报名成功。
 -   如果你还没有加入 GDG 西安微信群，可以联系群主微信 greatghoul 请求加入，注名 GDG 西安。
+
+### 支持者
+-   ![](https://ws2.sinaimg.cn/large/006tKfTcgy1fshlf4obssj318g0ewdhg.jpg =250x)
