@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 使用 Flutter 编写跨平台的移动应用 | GDG 西安
+title: 使用 Angular 开发以太坊钱包 | GDG Xi'an
 author: greatghoul
 ---
 
