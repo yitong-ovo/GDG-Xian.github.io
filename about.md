@@ -53,7 +53,7 @@ Open, Share and Innovation
  * [张思楚](http://zhangsichu.com/)
  * [王愿杰](https://github.com/damo-wang)
  * [张宜桐](https://github.com/yitong-ovo)
- * [曹巧](/about/caoqiao)
+ * [曹巧](https://github.com/janeqiao)
 
 ### 志愿者
 
