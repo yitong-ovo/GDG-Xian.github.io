@@ -47,8 +47,8 @@ Open, Share and Innovation
 
 ### 组织者
 
- * [David Xie](https://github.com/david30xie)
- * [Eric Jin](https://github.com/today)
+ * [谢凌](https://github.com/david30xie)
+ * [金天](https://github.com/today)
  * [邱建](https://github.com/greatghoul)
  * [张思楚](http://zhangsichu.com/)
  * [王愿杰](https://github.com/damo-wang)
@@ -57,7 +57,7 @@ Open, Share and Innovation
 
 ### 志愿者
 
- * [程又青](http://weibo.com/u/1596451745)
+ * [郭兆谨](http://weibo.com/u/1596451745)
 
 ### 联系我们
 
