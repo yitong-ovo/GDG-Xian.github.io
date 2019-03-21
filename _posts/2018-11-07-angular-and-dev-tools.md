@@ -21,11 +21,15 @@ React, Vue, Angular 是如今很热门的三大前端框架，其中 Angular 是
 他还会参与开源软件的开发和布道（Grails、Vert.x和以太坊），
 并贡献了基于vert.x的API网关dgate。
 
+⬇️ [下载幻灯片](https://www.jianguoyun.com/p/De1pINQQ3_SZBhi0oqoB)
+
 ### 开发者的百宝箱
 
 程序员的日常工作和学习中，除了趁手的编辑器和 IDE 以下，总会用到一些有趣又好用的辅助工具，
 从前端到后端，从程序开发到数据库设计，你都需要这样的工具来提高自己的效率，
 这是我总结的开发者的“要你命3000”，分享给大家。
+
+⬇️ [下载幻灯片](https://www.jianguoyun.com/p/DeylrYsQ3_SZBhjCoqoB)
 
 **嘉宾：邱建**
 
