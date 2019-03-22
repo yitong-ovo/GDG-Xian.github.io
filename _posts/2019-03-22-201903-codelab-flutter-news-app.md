@@ -24,7 +24,6 @@ https://gdgxian.org/feed.xml
 
 优秀的参与者可以得到我们准备的 Flutter 小礼物。
 
-    礼物图片
 
 ## 你需要准备
 
@@ -41,6 +40,8 @@ https://gdgxian.org/feed.xml
 
 * [百格活动报名渠道](https://www.bagevent.com/event/2470636)
 * [Meetup报名渠道](https://www.meetup.com/GDG-Xian/events/259976762/)
+
+填写报名表即表示报名成功，请牢记时间和地点，按时参加。
 
 ## 关注活动更新
 
