@@ -7,7 +7,7 @@ title: GDG Xi'an Codelab - 使用 Flutter 开发新闻应用
 
 ## Codelab 内容
 
-![image.png](https://trello-attachments.s3.amazonaws.com/5c093999fb189c3ef10a5f16/5c77f5a3f4fdfb486fcc05c4/11b27d496d58abc9e1b9897448058982/image.png)
+![](https://i.loli.net/2019/03/22/5c94643c1f445.jpg)
 
 - [Flutter Tutorial - News Reader Application part 1](https://www.youtube.com/watch?v=bYzw_tQma98)
 - [Flutter Tutorial - News Reader Application part 2](https://www.youtube.com/watch?v=oenOzO9TWgA)
