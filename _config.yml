@@ -14,6 +14,6 @@ permalink: pretty
 # Comments
 disqus_short_name: gdgxian
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
