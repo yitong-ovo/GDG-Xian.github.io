@@ -1,7 +1,6 @@
 ---
 layout: post
-title: GDG 西安五月活动：Tidb 和 Spring
-published: false
+title: GDG 西安五月活动：TiDB 和 Spring
 ---
 
 五月是 I/O 的季节，考虑到安全等因素，西安 GDG 今年没有举办夜间线下的直播活动，不过下个月，我们会举办回顾活动，一起了解下今年 Google I/O 的干货，敬请关注。
@@ -37,7 +36,10 @@ published: false
 
 ## 报名方式
 
+- [Meetup](https://www.meetup.com/GDG-Xian/events/261350002/) (**推荐**)
+- [石墨文档报名表单](https://shimo.im/forms/R913JVW5RNmij3E6/fill)
 
+本活动为免费活动，请牢记活动时间和地点，准时参加。如果你还没有加入 GDG 西安的微信群，可以微信联系 greatghoul 请求加入，注明 **GDG**。
 
 ## 相关链接
 
@@ -47,5 +49,5 @@ published: false
     
 ## 合作机构
 
-![PingCAP / TiDB](https://i.loli.net/2019/05/10/5cd58256b063c.png)
+[![PingCAP / TiDB](https://i.loli.net/2019/05/10/5cd58256b063c.png)](https://www.pingcap.com)
 
