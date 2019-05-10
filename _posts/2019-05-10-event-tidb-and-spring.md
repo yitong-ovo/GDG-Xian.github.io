@@ -4,7 +4,9 @@ title: GDG 西安五月活动：Tidb 和 Spring
 published: false
 ---
 
-TODO: 引言
+五月是 I/O 的季节，考虑到安全等因素，西安 GDG 今年没有举办夜间线下的直播活动，不过下个月，我们会举办回顾活动，一起了解下今年 Google I/O 的干货，敬请关注。。
+
+在回顾活动筹备期间，我们还安排了一期技术活动以满足大家 5 月份对技术的渴求，这期活动，我们准备了 TiDB 和 Spring Framework 的相关话题。
 
 ## 活动内容
 
@@ -24,14 +26,23 @@ TODO: 引言
 
 ## 活动时间
 
-2019-05-25 13:30 - 16:30 
+2019年5月25日 星期六 13:30 - 16:30 
 
 ## 活动地点
 
-西安市高新一路与光华路十字西安创业咖啡街区海归楼3层
+西安高新区高新一路和光华路十字 西安创业咖啡街区 海归楼三层 3W COFFICE 西安高新创路空间 ([打开地图](https://ditu.amap.com/place/B0FFIBIC6D))
+![地图](https://s1.ax1x.com/2018/03/04/9yaBJH.png)
+
+**感谢 TiDB 赞助的场地**
 
 ## 相关链接
 
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is a distributed HTAP database compatible with the MySQL protocol
 - [Spring Framework 5](https://spring.io/) - Spring helps development teams everywhere
     build simple, portable, fast and flexible JVM-based systems and applications.
+    
+## 合作机构
+
+TODO: 3W Coffee Logo
+TODO: TiDB Logo
+
