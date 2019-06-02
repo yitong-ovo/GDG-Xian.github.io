@@ -40,5 +40,5 @@ before_install:
   -in travis-ci-deploy.enc -out ./travis-ci-deploy -d
 - eval "$(ssh-agent -s)"
 - chmod 600 ./travis-ci-deploy
-- echo -e "Host $SERVER_IP_ADDRESS\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+- echo -e "Host treebeard.node.idc.wiki\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 - ssh-add ./travis-ci-deploy
