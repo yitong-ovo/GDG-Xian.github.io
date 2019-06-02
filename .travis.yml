@@ -34,3 +34,7 @@ addons:
   apt:
     packages:
       - ncftp
+      
+before_install:
+- openssl aes-256-cbc -K $encrypted_7af18530a6be_key -iv $encrypted_7af18530a6be_iv
+  -in travis-ci-deploy.enc -out ./travis-ci-deploy -d
