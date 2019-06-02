@@ -9,5 +9,5 @@ then
 EOF
 
     cd _site || exit
-    ncftpput -R -v -u "$USERNAME" -p "$PASSWORD" "$HOST" site .
+    ncftpput -R -v -u "$USERNAME" -p "$PASSWORD" "$HOST" /home/wqjrzolc/gdgxian.org/site .
 fi
