@@ -2,16 +2,18 @@
 
 if  [[ $TRAVIS_PULL_REQUEST = "false" ]]
 then
-      ip a
-#     ncftp -u "$USERNAME" -p "$PASSWORD" "$HOST"<<EOF
-#     rm -rf site
-#     echo "remove site folder"
-#     mkdir site
-#     echo "Create site folder"
-#     quit
-# EOF
+    ssh wqjrzolc@treebeard.node.idc.wiki <<EOF
+    rm -rf /home/wqjrzolc/gdgxian.org/*
+    touch /home/wqjrzolc/gdgxian.org/.htaccess
+    echo "
+      <IfModule mod_rewrite.c>
+            RewriteEngine On
+            RewriteCond %{HTTPS} off
+            RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+      </IfModule>
+      " > .htaccess
+EOF
 
-#     cd _site || exit
-#     echo "copy file "
-#     ncftpput -R -v -u "$USERNAME" -p "$PASSWORD" "$HOST" site .
+    echo "==== copy file ===="
+    rsync -r --delete-after --quiet _site/ wqjrzolc@treebeard.node.idc.wiki:/home/wqjrzolc/gdgxian.org/
 fi
