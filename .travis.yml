@@ -33,7 +33,7 @@ sudo: false
 addons:
   apt:
     packages:
-      - ncftp
+      - rsync
       
 before_install:
 - openssl aes-256-cbc -K $encrypted_7af18530a6be_key -iv $encrypted_7af18530a6be_iv
