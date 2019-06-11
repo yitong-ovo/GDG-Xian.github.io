@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GDG 西安六月活动: Google I/O 回顾，前端性能优化，科技与艺术，GDG Global Summit 2019 分享
+title: GDG 西安六月活动 Google I/O 回顾，前端性能优化，科技与艺术，GDG Global Summit 2019 分享
 ---
 
 之前因为安全等等的因素，我们在微信群组进行了 Google I/O 2019 的直播。这次让我们来回顾 io 都发布了哪些新的技术和特性。除了这次去 io 的组织者之外，我们还找来了其他的参与者来为我们分享这次 Google I/O 的故事。
@@ -43,7 +43,6 @@ GDG 是由谷歌开发者部门发起的一个开发者社区全球项目，是�
 中国陕西省西安市长安区工业二路与神舟五路交叉口西南150米 运维国际 3 层 (** 可乘坐地铁四号线到达 东长安街 站下车** )
 [Apple Maps](https://maps.apple.com/?address=%E4%B8%AD%E5%9B%BD%E9%99%95%E8%A5%BF%E7%9C%81%E8%A5%BF%E5%AE%89%E5%B8%82%E9%95%BF%E5%AE%89%E5%8C%BA%E5%B7%A5%E4%B8%9A%E4%BA%8C%E8%B7%AF%E4%B8%8E%E7%A5%9E%E8%88%9F%E4%BA%94%E8%B7%AF%E4%BA%A4%E5%8F%89%E5%8F%A3%E8%A5%BF%E5%8D%97150%E7%B1%B3&auid=1118368846085961&ll=34.155513,108.979245&lsp=57879&q=%E4%BA%AC%E4%B8%9C%E4%BA%91%E5%88%9B%E6%96%B0%E7%A9%BA%E9%97%B4%EF%BC%88%E8%A5%BF%E5%AE%89%EF%BC%89) [高德地图](https://www.amap.com/place/B0FFJZJ51L)
 ![](https://i.loli.net/2019/06/08/5cfa988bad93c50677.jpg)
-
 
 ## 合作机构
 ![](https://i.loli.net/2019/06/08/5cfa99bbed3a045436.jpg)
