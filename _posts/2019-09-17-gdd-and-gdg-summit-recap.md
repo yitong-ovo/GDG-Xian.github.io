@@ -5,13 +5,13 @@ title: GDG西安9月活动：GDG峰会和GDD回顾
 
 上个月，GDG 西安举办了一个小范围的茶话会，邀请部分活跃成员和讲师一起探讨社区未来的发展，收获了很多好的建议和意见。
 
-![n5AuHH.jpg](https://s2.ax1x.com/2019/09/17/n5AuHH.jpg)
+![n5AuHH.jpg](https://s2.ax1x.com/2019/09/17/n5AuHH.md.jpg)
 
 本月初，GDG西安的四位组织者又前往北京参加了今年的 GDG 峰会，和来自其它地区的组织者交流社区组织和运营经验，取经归来，迫不及待的想要和大家分享。
 
-![n5AI8x.jpg](https://s2.ax1x.com/2019/09/17/n5AI8x.jpg)
+![n5AI8x.jpg](https://s2.ax1x.com/2019/09/17/n5AI8x.md.jpg)
 
-![n5Epxf.jpg](https://s2.ax1x.com/2019/09/17/n5Epxf.jpg)
+![n5Epxf.jpg](https://s2.ax1x.com/2019/09/17/n5Epxf.md.jpg)
 
 ## 话题一 / 2019 GDG Summit taken back and recap
 
@@ -36,7 +36,7 @@ title: GDG西安9月活动：GDG峰会和GDD回顾
 
 2019年9月22日 周日 下午 1:30 - 5:00
 
-![n5E7Yn.png](https://s2.ax1x.com/2019/09/17/n5E7Yn.png)
+![n5E7Yn.png](https://s2.ax1x.com/2019/09/17/n5E7Yn.md.png)
 
 西安市南二环西段69号西安创新设计中心3层309室
 
