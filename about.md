@@ -54,6 +54,7 @@ Open, Share and Innovation
  * [王愿杰](https://github.com/damo-wang)
  * [张宜桐](https://github.com/yitong-ovo)
  * [曹巧](https://github.com/janeqiao)
+ * [刘信](https://github.com/yuxingxin)
 
 ### 志愿者
 
