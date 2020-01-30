@@ -5,8 +5,9 @@ permalink: /about/
 ---
 
 GDG Xi'an 成立于2012年8月4日, 是一个专注于 Google 技术及开源技术的技术社区。
-我们讨论的技术有 Android, Dart, AngularJS, Cloud Computing 等, 
-开源技术一直是我们的最爱。GDG Xi'an 是根植于西安的软件开发者社区，
+开源技术一直是我们的最爱。
+我们讨论的技术有 Android, Dart, AngularJS, Cloud Computing 等。
+GDG Xi'an 是根植于西安的软件开发者社区，
 是 Google Developer Group Xi’an 的缩写，是谷歌开发者社区全球大家庭的一份子。
 我们每月会举行一次线下的开发者聚会，至 2018年中期，已举办活动 80 余次，约 2500 人次。
 我们的活动主要形式是技术分享，由各位热心的社区成员，带给大家前沿的技术动向和深入的技术内容。
