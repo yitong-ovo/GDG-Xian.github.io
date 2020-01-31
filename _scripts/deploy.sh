@@ -5,16 +5,16 @@ then
     rm _site/travis-ci-deploy
     rm _site/travis-ci-deploy.enc
     echo "==== copy file ===="
-    rsync -r --delete-after --quiet _site/ wqjrzolc@treebeard.node.idc.wiki:/home/wqjrzolc/gdgxian.org/
+    scp -r _site/ foxtjryj@202.95.9.110:/httpdocs/gdgxian.org/
     
-    ssh wqjrzolc@treebeard.node.idc.wiki <<EOF
-    touch /home/wqjrzolc/gdgxian.org/.htaccess
+    ssh foxtjryj@202.95.9.110 <<EOF
+    touch /httpdocs/gdgxian.org/.htaccess
     echo "
       <IfModule mod_rewrite.c>
             RewriteEngine On
             RewriteCond %{HTTPS} off
             RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
       </IfModule>
-      " > /home/wqjrzolc/gdgxian.org/.htaccess
+      " > /httpdocs/gdgxian.org/.htaccess
 EOF
 fi
