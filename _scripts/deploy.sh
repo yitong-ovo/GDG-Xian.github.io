@@ -20,5 +20,5 @@ then
             RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
       </IfModule>
       " > /httpdocs/gdgxian.org/.htaccess
-    EOF
+EOF
 fi
