@@ -30,7 +30,6 @@ Open, Share and Innovation
 * 加入微信群: 添加 greatghoul , todayza , hemoparrot 中的任何一人为微信好友，并请他邀请进群。
 * 关注微信公众帐号: gdg-xian
 * 加入邮件列表(**包含所有活动信息**): xian-gdg@googlegroups.com
-* 关注Google+页面: [GDG Xi'an](http://plus.google.com/114935565019424673192/)
 * 关注微博帐号: [GDG西安](http://weibo.com/xagdg)
 
 
