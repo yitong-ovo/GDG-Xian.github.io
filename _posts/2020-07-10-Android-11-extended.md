@@ -17,13 +17,21 @@ GDG 西安的 Android 11 线上直播活动中，我们准备了两个话题
 随着 Android 11 的发布，Android Studio 新版本的发布也随之到来。
 工欲善其事，必先利其器。AS 4.0 以及内测版本带来了很多颠覆开发模式的新功能，给开发者从UI到Profile均带来了更优雅的体验。在本次 Meetup 中，让我们一探究竟。
 
-分享嘉宾：杨楠晨，ThoughtWorks Senior Consultant，Android 资深工程师，具有项目团队管理经验，了解海外市场的开发与发布流程，对 CI/CD、移动端自动化、TDD 等均有成熟的项目实践与理解。
+分享嘉宾：
+
+<img src="https://i.loli.net/2020/07/10/yUJZianTAGgFsKX.jpg" width="256" height="256">
+
+杨楠晨，ThoughtWorks Senior Consultant，Android 资深工程师，具有项目团队管理经验，了解海外市场的开发与发布流程，对 CI/CD、移动端自动化、TDD 等均有成熟的项目实践与理解。
 
 ## 拥抱 Jetpack
 
 对于从事 Android 开发的小伙伴来说，相信大家不管是在公司项目或是平时课余时间的小项目上，从产品交互，用户体验，代码架构，数据存取及网络优化等方面都会遇到各种各样的问题，并且有属于自己的一套解决方案，但是又很难适合所有的项目场景。那么自Google I/0 2018年开发者大会推出 Android Jetpack 以来，已经过去两年的日子啦，Jetpack作为一套能够帮助简化开发流程，从而轻松打造优质应用的工具和组件，大家有没有在自己项目上实践呢，So让我们一起拥抱Jetpack，感受它的魅力吧。
 
-分享嘉宾：张从飞，3年 Android 开发经验，目前在 Thoughtworks 主要从事 Android 开发，对移动开发有着浓厚的兴趣。
+分享嘉宾：
+
+<img src="https://i.loli.net/2020/07/10/qtrhuDlbmXjfZOe.jpg" width="256" height="224">
+
+张从飞，3年 Android 开发经验，目前在 Thoughtworks 主要从事 Android 开发，对移动开发有着浓厚的兴趣。
 
 ## 活动时间
 
