@@ -2,6 +2,8 @@
 layout: post
 title: GDG Xi'an Android 11 extended
 ---
+![Youtube Thumbnail _1280x720_.png](https://i.loli.net/2020/07/10/dvMEYwaQ5W8bSpI.png)
+
 Android 11 Beta 已经发布了，小伙伴们对于 Android 11 新特性已经有些了解了吧。
 
 如果你对 Android 11 新功能有兴趣，如果你对 Android 11 和不同的产品结合点抱有好奇，如果你想了解更多地有关 Jetpack or Kotlin 的更多内容，那就参与 GDG 社区举办的系列 Android 11 线上活动吧。
