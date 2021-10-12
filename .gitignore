@@ -1,9 +1,0 @@
-.DS_Store
-*.gem
-*.swp
-*~
-_site/
-.bundle/
-.DS_Store
-.ruby-version
-.sass-cache
